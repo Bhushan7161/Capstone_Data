@@ -57,12 +57,3 @@ Variables:
 * total_cases: The total number of Dengue cases.
 
 Dataset Source: https://dengueforecasting.noaa.gov 
-
-
-
-
-
-
-
-
-
