@@ -16,4 +16,5 @@ Malaria_cases: This is the count of malaria cases. The total number of cases is 
 
 Data Set Source:
 https://data.world/makeovermonday/2018w16-zambia-southern-province-confirmed-malaria-cases/workspace/file?filename=Simulated+VisualizeNoMalaria+Counts.xlsx
+
 This dataset will be instrumental in analyzing the spatial distribution and temporal trends of malaria incidence, allowing for comprehensive geospatial analysis.
